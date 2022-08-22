@@ -1,4 +1,4 @@
 <?php
-echo "hello world";
+echo  "  bu dosya baozuldu1";
 
  ?>
